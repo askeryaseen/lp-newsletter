@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+
+.main{
+
+text-align: center;
+max-width: 600px;
+margin: 20px auto;
+padding: 20px;
+background-color: #222;
+border-radius: 10px;
+border: 1px solid #333;
+}
+.intro{
+    text-align: left;
+    font-size: medium;
+    color:azure
+}
+h2,h3{
+    color:#FFA500;
+}
+button{
+    background-color: #ffa500; /* Orange button background */
+	color: #fff; /* White button text color */
+	border: none;
+	padding: 10px 20px;
+	font-size: 16px;
+	cursor: pointer;
+	margin-top: 10px;
+	border-radius: 5px;
+}
